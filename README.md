@@ -20,7 +20,7 @@ word
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Mark</td>
+      <td>Mark <a href="https://kazemai.github.io/fgo-vz/">GOGO</a></td>
       <td>Otto</td>
       <td>@mdo</td>
     </tr>
